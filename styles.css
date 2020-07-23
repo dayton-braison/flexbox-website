@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+header {
+    background-color: #2f0147;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.intro {
+    width: 500px;
+    margin: 100px auto;
+    text-align: center;
+    color: #5a5555;
+}
+
+.my-skills {
+    background-color: #7C77B9;
+    color: white;
+    padding: 75px 0;
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    margin: 0 10px;
+}
